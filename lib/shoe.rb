@@ -8,4 +8,5 @@ class Shoe
   def cobble
     puts 'The shoe is now repaired'
     @conditon = "new"
+  end
 end
